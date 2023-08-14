@@ -1,0 +1,96 @@
+.heading{
+    height: 10vh;
+    background: linear-gradient(0.25turn, #2165e2, #081588);
+}
+
+.tierlogo{
+    width: 7vw;
+    height: 4vh;
+    padding-left: 3vw;
+    padding-top: 3vh;
+    padding-right: 49vw;
+}
+.headeritems{
+    list-style: none;
+    /* text-align: right; */
+}
+.headeritems li{
+    padding: 10px;
+    display: inline;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.workwithus{
+    background-color: palevioletred;
+    border-radius: 12px;
+}
+body{
+    background: linear-gradient(0.25turn, #2165e2, #081588);
+}
+h1{
+    color: white;
+    padding-top: 100px;
+    padding-left: 200px;
+    font-family: sans-serif, monospace;
+    font-size: 45px;
+
+}
+h3{
+    color: white;
+    font-family: sans-serif, monospace;
+    padding-left: 200px;
+}
+.workwithustwo{
+    text-align: center;
+    background-color: palevioletred;
+    width: 150px;
+    height: 40px;
+    padding-top: 15px;
+   margin-left: 230px;
+    border-radius: 24px;
+    color: white;
+    
+}
+.mainlogo{
+    display: inline-flex;
+}
+h1{
+    box-sizing: border-box;
+}
+.right img{
+    margin-top:150px;
+    margin-left: 300px;
+    width: 400px;
+    margin-right: 100px;
+    
+}
+.foot{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 60px;
+    
+}
+.item{
+    
+    /* padding: auto 20px; */
+    margin: 40px;
+    padding: auto 50px;
+    color: white;
+
+}
+.item img{
+    width: 75px;
+}
+h4{
+    font-size: small;
+    font-weight: normal;
+}
+/* .left{
+    width: 40%;
+    border: 2px solid red;
+    display: inline-block;
+    padding: auto;
+} */

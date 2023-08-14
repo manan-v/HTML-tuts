@@ -1,0 +1,52 @@
+ body{
+    background-color: black;
+    color: white;
+}
+header{
+    height: 200px;
+} 
+ .headeritems{
+    display: flex ;
+    align-items: center;
+    
+}
+.hleft img{
+    width: 200px;
+    height: 190px;
+    padding: auto;
+    padding-top: 0px;
+    }
+  li{
+    display: inline;
+   padding-top: 500px; 
+    padding-right: 3vw;
+}
+.about{
+   padding-left: 51vw;
+   padding-top: 100px;
+}
+a{
+    text-decoration: none;
+    color: white;
+} 
+ .mainitems{
+    display: flex;
+} 
+.mleft img{
+  padding-left: 19vw;
+  padding-right: 4vw;
+  }
+.mright{
+    margin-top: 70px;
+}
+h1{
+    border-bottom: 4px solid red;
+    position: absolute;
+}
+h3{
+    padding-top: 51px;
+}
+.sign{
+    width: 200px;
+    height: 100px;
+}
